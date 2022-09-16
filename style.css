@@ -95,3 +95,7 @@ text-align: center;
 comunicados .title{
     height: 200px;
 }
+
+.horario{
+max-width: 365px;
+max-height: 800px;}
