@@ -97,5 +97,8 @@ comunicados .title{
 }
 
 figure img{
-max-width: 365px;
-max-height: 800px;}
+max-width: 360px;
+max-height: 800px;
+align-items: center;
+padding: 0;
+margin: 0;}
