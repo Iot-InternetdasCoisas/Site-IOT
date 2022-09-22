@@ -103,3 +103,11 @@ align-items: center;
 padding: 0;
 margin: 0;
 text-align: left;}
+
+.provas img{
+    max-width:300px; 
+    max-height:300px; 
+    text-align: center;
+    object-fit: 100px;
+    align-items: center;
+}
